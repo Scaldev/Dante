@@ -15,7 +15,7 @@ let contenu = {
         "degrades": "rgb(175, 119, 87), rgb(77, 43, 50)",
     },
     1: {
-        "titre": "Il inferno",
+        "titre": "L'inferno",
         "dimensions": [canvas.width - 450, 175, 384, 384],
         "vers": ["Composto di sofferenza, l'inferno", "Dove il contrappasso è presente", "Dove Lucifero regna sovrano."],
         "degrades": "rgb(207, 71, 60), rgb(65, 29, 49)",
